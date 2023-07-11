@@ -261,7 +261,7 @@
 .subscribe{
     display: flex;
     flex-direction: column;
-    background-image: url('images/Rectangle 9 - copy.png');
+    background-image: url('images/Rectangle 9.png');
     background-repeat: no-repeat;
     height: 400px;
     width: 1180px;
@@ -327,6 +327,28 @@
     margin-right: 50px;
    
 }
+.main-part-6{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 8px;
+    background: palevioletred;
+    height: 300px;
+    width: 1130px;
+    margin-left: 178px;
+    margin-bottom: 100px;
+
+}
+.achievement-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+    
+}
+
+
 /* main ends here */
 
 /* footer starts here */
