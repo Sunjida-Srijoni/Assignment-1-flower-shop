@@ -29,7 +29,7 @@
     padding: 10px;
     margin: 10px;
     font-size: 18px;
-    color: palevioletred;
+    color: rgb(208, 71, 117);
     text-decoration: none;
     
    
@@ -236,11 +236,16 @@
 .main-part-4-description{
     text-align: center;
     align-items: center;
-    width: 500px;
+    width: 550px;
     margin-left: 520px;
     font-family: 'Lato', sans-serif;
     margin-top: 20px ;
     margin-bottom: 20px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 30px;
     
 }
 .imagess{
@@ -311,6 +316,45 @@
 /* main ends here */
 
 /* footer starts here */
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #000000;
+    width: 100%;
+    height: 350px;
+    margin-top: 80px;
+
+    font-family: 'Lato', sans-serif;
+}
+
+.footer-title{
+    color:#FFF;
+    font-size: 40px;
+    margin-top: 100px;
+    font-weight: 800;
+    line-height: normal;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    width: 550px;
+    padding: 10px;
+    line-height: 5px;
+   
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 30px;
+}
+.footer-copyright{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 13px;
+    font-style: normal;
+    padding: 10px;
+    line-height: normal;
+}
 
 
 /* footer ends here */
