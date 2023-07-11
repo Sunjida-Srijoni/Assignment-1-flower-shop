@@ -336,6 +336,26 @@
     background-color: #E55473;
     color: #FFF;
 }
+
+.main-part-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    height: 300px;
+    width: 1180px;
+    margin-left: 178px;
+    margin-bottom: 100px;
+
+}
+.part-2-img{
+    gap: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+   
+}
 /* main ends here */
 
 /* footer starts here */
