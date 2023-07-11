@@ -6,35 +6,6 @@
 
 /* header starts here */
 
-/* .menu-container{
-    background-color: rgb(247, 219, 224);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    list-style: none;
-    height: 100px;
-   
-}
-.menus{
-    display: flex;
-    color: white;
-
-}
-.logo-pic{
-    padding: 20px;
-    width: 120px;
-}
-
-.item{
-    padding: 10px;
-    margin: 10px;
-    font-size: 18px;
-    color: rgb(208, 71, 117);
-    text-decoration: none;
-    
-   
-   
-} */
 
 .header-container{
     display: flex;
